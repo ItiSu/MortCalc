@@ -23,3 +23,8 @@ This project is a simple Java application designed to calculate mortgage payment
    If you have the source files, compile them using the following command:
    ```bash
    javac Main.java MortgageReport.java MortgageCalculator.java
+
+## Screenshots
+![TaskSuccess](https://github.com/user-attachments/assets/fdf91a49-f119-4ef7-beab-91bcc7987da6)
+![UI](https://github.com/user-attachments/assets/b0091dbc-ab10-48ef-8655-f7d13bf384ad)
+
