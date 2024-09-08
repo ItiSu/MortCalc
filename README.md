@@ -1,2 +1,25 @@
-# MortCalc
-This project is a simple Java application for calculating mortgage payments. It uses Java Swing for the graphical user interface (GUI), providing a clean and functional interface for users to input their mortgage details and view the results.
+# Mortgage Calculator
+
+## Overview
+
+This project is a simple Java application designed to calculate mortgage payments. It uses Java Swing to provide a graphical user interface (GUI) that allows users to input mortgage details and view the results. The application is straightforward and offers a clear display of monthly payments and a payment schedule.
+
+## Features
+
+- **Mortgage Calculation**: Calculates the monthly mortgage payments based on user-provided details.
+- **Payment Schedule**: Displays the remaining balances for each month throughout the mortgage period.
+- **User-Friendly GUI**: Features a clean and visually appealing interface with rounded corners and modern design elements.
+
+## Files
+
+- **`Main.java`**: The main entry point of the application, handling user interactions and invoking calculations.
+- **`MortgageReport.java`**: Responsible for generating and displaying the mortgage report and payment schedule.
+- **`MortgageCalculator.java`**: Contains the logic for mortgage calculations based on the user's input.
+- **`MortgageCalculator.jar`**: The packaged JAR file of the application, which can be executed directly.
+
+## How to Run
+
+1. **Compile the Source Code**:
+   If you have the source files, compile them using the following command:
+   ```bash
+   javac Main.java MortgageReport.java MortgageCalculator.java
